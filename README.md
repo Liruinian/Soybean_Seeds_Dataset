@@ -1,8 +1,3 @@
----
-layout: default # Or another theme you prefer for GitHub Pages
-title: OPViTS - Soybean Seed Counting & 3D Localization
----
-
 # OPViTS: A Vision Transformer and SfM-Based Framework for In-Field Soybean Seed Counting and 3D Localization
 
 **Wenchuan Ma<sup>1,*</sup>, Ruinian Li<sup>1</sup>, Mengbo Yang<sup>1</sup>, Xuanbin Xu<sup>1</sup>**
